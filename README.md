@@ -42,7 +42,7 @@ of the organization.
 ---
 
 ## 📄 Resume
-👉 [Download Resume](https://mackjon1.github.io/portfolio/MAYANK.pdf)
+👉 [Download Resume](https://mackjon1.github.io/Portfolio/MAYANK.pdf)
 
 ---
 
