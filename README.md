@@ -37,7 +37,7 @@ of the organization.
 ---
 
 ## 🌐 Portfolio Website
-👉 https://mackjon1.github.io/portfolio/
+👉 https://mackjon1.github.io/Portfolio/
 
 ---
 
