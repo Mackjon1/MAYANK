@@ -25,26 +25,26 @@ of the organization.
 
 ## 🛠️ Technical Skills
 
-▪ System Upgrades
-▪ Troubleshooting
-▪ Computer Networking
-▪ Windows Activation
-▪ IP Configuration
-▪ Hardware
-▪ Windows Installation
-▪ BIOS Configuration
+- System Upgrades  
+- Troubleshooting  
+- Computer Networking  
+- Windows Activation  
+- IP Configuration  
+- Hardware  
+- Windows Installation  
+- BIOS Configuration  
 
 ---
 
 ## 🌐 Portfolio Website
-👉 https://mackjon1.github.io/Portfolio/
+👉 **https://mackjon1.github.io/Portfolio/**
 
 ---
 
 ## 📄 Resume
-👉 [Download Resume](https://mackjon1.github.io/Portfolio/MAYANK.pdf)
+👉 **[Download Resume](https://mackjon1.github.io/Portfolio/MAYANK.pdf)**
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: https://github.com/mackjon1
+- GitHub: **https://github.com/mackjon1**
