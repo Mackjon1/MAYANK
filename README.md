@@ -1,10 +1,9 @@
 # Hi, I'm Mayank 👋
 
-## 👨‍💻 IT Engineer
+## 👨‍💻 IT Engineer | System & Technical Support
 
-To utilize my skills and experience in IT support and hardware to provide reliable technical assistance, ensure
-smooth system operations, and maintain high standards of service, while contributing to the growth and success
-of the organization.
+IT Engineer with hands-on experience in IT operations, system maintenance, and user support.
+Focused on delivering reliable technical solutions and continuously improving IT and frontend skills.
 
 ---
 
@@ -16,35 +15,50 @@ of the organization.
 - System maintenance, troubleshooting, and user support  
 
 ### 🔹 IT Engineer — AVS Holidays Pvt. Ltd.  
-**1 Year 6 Months Experience**
+**1 Year 5 Months Experience**
 - Provided IT support for hardware, software, and network issues  
 - Managed system operations and basic network troubleshooting  
-- Assisted employees with system maintenance and technical issues  
+- Assisted employees with technical issues and system maintenance  
 
 ---
 
 ## 🛠️ Technical Skills
 
-- System Upgrades  
-- Troubleshooting  
-- Computer Networking  
-- Windows Activation  
-- IP Configuration  
-- Hardware  
-- Windows Installation  
+- System Troubleshooting & Maintenance  
+- Hardware Installation, Upgrades & Support  
+- Computer Networking (LAN, IP Configuration)  
+- Windows Installation & Activation  
 - BIOS Configuration  
+- User Technical Support  
+- HTML • CSS  
+- GitHub Pages  
+
+---
+
+## 🔭 Currently Working On
+- Handling IT operations and technical support tasks  
+- Improving frontend skills (HTML, CSS)  
+- Learning Git & GitHub for version control  
+- Maintaining and upgrading systems  
+
+---
+
+## 🎯 Next Goals
+- Create IT support documentation repositories  
+- Build small frontend projects  
+- Improve networking and system administration skills  
 
 ---
 
 ## 🌐 Portfolio Website
-👉 **https://mackjon1.github.io/Portfolio/**
+👉 https://mackjon1.github.io/Portfolio/
 
 ---
 
 ## 📄 Resume
-👉 **[Download Resume](https://mackjon1.github.io/Portfolio/MAYANK.pdf)**
+👉 [Download Resume](https://mackjon1.github.io/Portfolio/MAYANK.pdf)
 
 ---
 
 ## 📫 Connect with Me
-- GitHub: **https://github.com/mackjon1**
+- GitHub: https://github.com/mackjon1
